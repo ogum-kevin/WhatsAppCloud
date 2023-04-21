@@ -10,3 +10,4 @@ He/she can then proceed to a different category and select add another product(s
 He/she can then proceed to checkout.
 On checkout a PDF invoice is sent ot the seller and customer and a geographical coordinates of customer sent to the seller for delivery.
 The E-commerce chatbot is ideal for small business or side hustle because it ensure 24/7 availaibilty of the seller(Or atleast an illusion of it);
+///The store items are obtained from fakestoreapi.com
